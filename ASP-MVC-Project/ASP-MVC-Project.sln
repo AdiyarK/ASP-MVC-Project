@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP-MVC-Project", "ASP-MVC-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP-MVC-Project.Tests", "ASP-MVC-Project.Tests\ASP-MVC-Project.Tests.csproj", "{1CD8046D-965E-4EC3-B7DB-82E401F364AA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventDB", "EventDB\EventDB.csproj", "{C09BD2A3-3407-462C-8666-B71A56D31B7A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{1CD8046D-965E-4EC3-B7DB-82E401F364AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1CD8046D-965E-4EC3-B7DB-82E401F364AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1CD8046D-965E-4EC3-B7DB-82E401F364AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C09BD2A3-3407-462C-8666-B71A56D31B7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C09BD2A3-3407-462C-8666-B71A56D31B7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C09BD2A3-3407-462C-8666-B71A56D31B7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C09BD2A3-3407-462C-8666-B71A56D31B7A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
